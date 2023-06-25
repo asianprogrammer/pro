@@ -28,6 +28,12 @@ $ npm run start
 $ npm run generate
 ```
 
+## One Line Setup ↲
+
+```bash
+git clone https://github.com/asianprogrammer/pro.git Zikue && cd Zikue && code . && curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash &&  nvm install v18 && nvm use v18 && npm install && npm audit fix &&  npm audit fix --force && clear && echo "Almost Done 🎉" &&  npm run dev
+```
+
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
 ## Special Directories
